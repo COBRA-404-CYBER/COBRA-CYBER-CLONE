@@ -40,11 +40,10 @@ python cobra.py
 
 <a href="#"><img title="COBRA-404-CYBER" src="https://i.top4top.io/p_26154btmi0.jpg"></a>
 <h1 align="center"></h1>
-<a href="#"><img title="COBRA-404-CYBER" src=""></a>
 
 ### </> If you copy , Then Give me The Credits </>
 
-### <\> Encrypt your code for safty </>
+### <\> BD NUMBER CLONING </>
 
 ## Find Me on :
 
