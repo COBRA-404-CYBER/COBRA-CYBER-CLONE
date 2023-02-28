@@ -4,7 +4,7 @@
 
 <a href="#"><img title="COBRA-404-CYBER" src="https://img.shields.io/badge/AUTHOR-FARHAN%20KHAN-red"></a>
 
-<h1 align="center">MAX BOMBER</h1>
+<h1 align="center">BD NUMBER CLONING</h1>
 
 
 ## <b>Installation</b>
